@@ -70,14 +70,14 @@ The ANN model delivered strong performance on the test dataset:
 
 Visual performance evaluation includes:
 
-- 📈 **Training vs Validation Accuracy**
-- 📉 **Loss Curves**
-- ✅ **Confusion Matrix**
-- 🚦 **ROC Curve**
+- **Training vs Validation Accuracy**
+- **Loss Curves**
+- **Confusion Matrix**
+- **ROC Curve**
 
 ---
 
-## 📈 How to Run
+## How to Run
 1. Clone this repository
 2. Ensure you have Python 3.x and install required libraries:
    ```bash
@@ -90,6 +90,6 @@ Visual performance evaluation includes:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 Feel free to fork the repo and submit pull requests for improvements!
 
