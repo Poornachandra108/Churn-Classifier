@@ -85,7 +85,7 @@ Visual performance evaluation includes:
    ```
 3. Run the Jupyter Notebook:
    ```bash
-   jupyter notebook Untitled0_Styled.ipynb
+   jupyter notebook Churn_predictor_ANN.ipynb
    ```
 
 ---
